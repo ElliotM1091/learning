@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2222ac7f-6c71-49b2-a28e-8b9d21b45af1" name="Learning" url="https://bootcamp-coders.cnm.edu~emurrey/learningphp">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Spartan109\Desktop\Bootcamp\sshkey.openssh" rootFolder="/home/emurrey/public_html/Learning php" accessType="SFTP" passphrase="dfe7dfcfdfd8dfc9dfcfdfcedfcfdfd0dfe7dfdfdfd8dfd8dfcfdfd3df9bdf9adf93" username="emurrey" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
