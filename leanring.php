@@ -1,4 +1,5 @@
 <?php
+$username = array('james', 'clif', 'tammy');
 $user_name = $_REQUEST['username'];
 ?>
 
@@ -7,7 +8,6 @@ $user_name = $_REQUEST['username'];
 	<head>
 		<meta charset="utf-8">
 		<title>Page Title</title>
-		<link rel="stylesheet" href="css/style.css" />
 	</head>
 	<body>
 		Welcome <?php echo $username;?>
